@@ -9,4 +9,8 @@
 .order-container{
     background-color: lightcoral;
     padding: 10px;
+    width: 180px;
+    position: fixed;
+    top: 10%;
+    right: 0;
 }
