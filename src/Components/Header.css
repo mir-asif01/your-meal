@@ -1,0 +1,17 @@
+.container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: lightyellow;
+    margin-bottom: 30px;
+}
+.logo p{
+    font-size: large;
+    font-weight: 700;
+    color: green;
+}
+.menu a{
+    text-decoration: none;
+    color: black;
+    margin: 0px 10px;
+}
